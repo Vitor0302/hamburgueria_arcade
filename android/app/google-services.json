@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "317473292481",
+    "project_id": "hamburgueria-arcade-c64e8",
+    "storage_bucket": "hamburgueria-arcade-c64e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317473292481:android:9c4fef631bf70a25d35440",
+        "android_client_info": {
+          "package_name": "com.mycompany.hamburgueriaarcade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317473292481-6l7l77ofvp8o721g6c02mud132p71828.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.hamburgueriaarcade",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "317473292481-h33k0ol79r0afamoncr0a6ld0ie001k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyDruShPjtCVgqC3MLhtfHF6mYvd9gQ5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317473292481-h33k0ol79r0afamoncr0a6ld0ie001k7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317473292481-lj8ga8glqmoon9gia86lrtfd5civ7e68.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.hamburgueriaarcade"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
